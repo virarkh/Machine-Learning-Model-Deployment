@@ -3,7 +3,7 @@
 ## Use Case Summary
 
 ### Objective Statement
--Get business insight about how growth visitors and buyers in a month at Supermarket
+- Get business insight about how growth visitors and buyers in a month at Supermarket
 - Get business insight about each visitors based on label defined such as Wandering Customer, Need-Based Customer and Loyal Customers at Supermarket
 - Create modeling using Simple Linear Regression
 - Deployment machine learning using MLflow
